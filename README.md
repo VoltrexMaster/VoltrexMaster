@@ -5,7 +5,7 @@
 
 - 👤 About me 
   - Who am i?
-    - I'm a professional Developer in JavaScript and I'm also designer amd a hacker.
+    - I'm a professional Developer in JavaScript and I'm also a designer and a hacker.
   - What do i work on?
     - I mainly work on `Discord bots` and `function` and also `npm packages`
   - How can you reach out to me?
