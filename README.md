@@ -16,7 +16,7 @@
   - **VXComplexity** the Discord bot
     - I mainly work on this bot which i've made that's 9 months old, and i finally got it verified ~~It's been verified for over 5 months now~~
   - **string-toolkit** the npm package
-    - I've recently started working on this npm package which helps you manipulate an string! (`npm i string-toolkit`)
+    - I've recently started working on this npm package which helps you manipulate a string! (`npm i string-toolkit`)
 
 
 
