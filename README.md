@@ -9,7 +9,7 @@
   - What do i work on?
     - I mainly work on `Discord bots`, `game development` and `npm packages`
   - How can you reach out to me?
-    - You can reach out to me by sliding into my DMs in Discord, my tag is `Voltrex Master#0001`
+    - You can reach out to me by sliding into my DMs in Discord, my tag is `Voltrex#0001`
   - Can i contribute in your projects?
     - Well of course you can but the best thing to do is to ask me by emailing me or talking to me in my DMs on Discord
 - My projects
