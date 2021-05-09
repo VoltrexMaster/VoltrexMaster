@@ -1,7 +1,7 @@
 # Hi there 👋
 ## I'm Voltrex
 
-> Looks like you find my profile in this magical place called `GitHub`!
+> Looks like you found my profile in this magical place called `GitHub`!
 
 - About me 
   - Who am I?
